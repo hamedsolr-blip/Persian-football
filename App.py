@@ -4,7 +4,7 @@ import feedparser
 from datetime import datetime
 
 st.set_page_config(
-    page_title="Easy Transfer | Football News",
+    page_title="PERSIAN FOOTBALL | Football News",
     page_icon="⚽",
     layout="wide"
 )
